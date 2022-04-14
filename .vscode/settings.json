@@ -1,0 +1,5 @@
+{
+     "editor.defaultFormatter": "esbenp.prettier-vscode",
+     "editor.formatOnSave": false,
+     "prettier.configPath": "/Users/doancuong/Movies/Workspace/husky_hook/.vscode/prettierrc.json"
+}
